@@ -1,3 +1,5 @@
+# Forked Clearance to send users home when they log out instead of to the log in screen
+
 # Clearance
 
 [![Build Status](https://secure.travis-ci.org/thoughtbot/clearance.svg)](http://travis-ci.org/thoughtbot/clearance?branch=master)
